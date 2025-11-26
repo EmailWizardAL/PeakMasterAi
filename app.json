@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "PeakMasterAI",
+    "slug": "peakmasterai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android", "web"]
+  }
+}
